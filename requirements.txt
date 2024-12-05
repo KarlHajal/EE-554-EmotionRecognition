@@ -1,0 +1,2 @@
+mlxtend==0.23.3
+opensmile==2.5.0
